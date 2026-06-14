@@ -1,4 +1,4 @@
-<img width="276" height="508" alt="flappybird" src="https://github.com/user-attachments/assets/62f5bbb7-e93b-45dc-b96c-348e316f06d0" />Welcome to my portfolio! **Jumping Bird** is a classic Flappy Bird-style 2D arcade game built in Unity. I developed this project to refine my skills in 2D gameplay mechanics, infinite scrolling, and WebGL optimization.
+Welcome to my portfolio! **Jumping Bird** is a classic Flappy Bird-style 2D arcade game built in Unity. I developed this project to refine my skills in 2D gameplay mechanics, infinite scrolling, and WebGL optimization.
 
 ***
 
